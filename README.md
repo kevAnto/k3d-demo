@@ -3,8 +3,11 @@
 #########
 ###########
 tips
+
 kubectl --kubeconfig=C:\Users\HP\.kube\config get pods
+
 alias k="kubectl --kubeconfig=C:\Users\HP\.kube\config"
+
 #########
 
 # Setup
